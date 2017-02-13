@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author CarlosMiguel
+ * @author CarlosMiguel De Leon Garcia IMA (Ing. Mecanico Administrador) A01410399
  */
 public class SPPCDeLeonGT02 {
 
